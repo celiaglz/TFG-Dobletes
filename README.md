@@ -10,4 +10,6 @@ Para ello se propone la implementación de técnicas de **aprendizaje automátic
 
 ## Contacto
 Autor: Celia González Fernández - [celiaglzf21@gmail.com](mailto:celiaglzf21@gmail.com)
+
+
 Trabajo tutorizado por : Javier Fernández Menéndez
