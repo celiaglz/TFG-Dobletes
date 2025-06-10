@@ -4,6 +4,10 @@ Para ello se propone la implementación de técnicas de **aprendizaje automátic
 
 ## Contenido del Repositorio
 * **2 Notebooks**: Ejecutados en la plataforma en línea Kaggle que se dividen en:
-   * **Visualizacion-Dobletes**:
-   * **ML-Dobletes**:
-* **Muestra de datos**: 
+   * **Visualizacion-Dobletes**: Dedicado a la exploración y visualización de la muestra de dobletes
+   * **ML-Dobletes**: Dedicado a la implementación, entrenamiento y evaluación de los modelos de aprendizaje automático. Concretamente se hace una comparación entre un Boosted Decision Tree (BDT) y una Red Neuronal Profunda (DNN)
+* **Muestra de datos** usada durante la ejecución de ambos Notebooks. Contiene aproximadamente 1 millón de dobletes y ha sido balanceada para no provocar sesgos entre clases.
+
+## Contacto
+Autor: Celia González Fernández - [celiaglzf21@gmail.com](mailto:celiaglzf21@gmail.com)
+Trabajo tutorizado por : Javier Fernández Menéndez
